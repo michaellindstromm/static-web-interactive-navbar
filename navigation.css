@@ -1,0 +1,16 @@
+a.hometab:hover {
+  color: rgb(0, 228, 167);
+}
+
+a.abouttab:hover {
+  background-color: rgb(218, 129, 104);
+}
+
+.grow {
+  background-color: blue;
+  width: 50px;
+}
+
+.grow:active {
+  width: 60px;
+}
